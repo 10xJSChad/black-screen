@@ -1,2 +1,4 @@
-# black-screen
-Makes your screen(s) black, basically a screensaver.
+# black-screen (X11)
+CTRL+C or ESC to close.
+
+Build with ```gcc black-screen.c -lX11```
